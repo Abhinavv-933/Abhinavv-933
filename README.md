@@ -10,7 +10,7 @@ I build real projects, not just side ones — clean code, solid logic, and a das
 
 - **Frontend:** React.js, JavaScript, HTML, TailwindCSS
 - **Backend:** Node.js, Express.js, MongoDB (MERN stack)
-- **Languages:** C++, Python
+- **Languages:** C, C++, Python
 
 ---
 
@@ -23,7 +23,8 @@ Stay tuned for some of my favorite creations. I’m always building and will sha
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/Abhinav-9M3)
+- [LinkedIn](https://www.linkedin.com/in/abhinav-dwivedi-9m3/)
+- [Email](abhinavdwivedi933@gmail.com)
 
 ---
 
