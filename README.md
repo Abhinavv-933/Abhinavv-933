@@ -28,6 +28,7 @@ Stay tuned for some of my favorite creations. I’m always building and will sha
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abhinavv-933)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abhinavv-933&theme=onedark)](https://github.com/Abhinavv-933/github-profile-trophy)
 
 > *“Shipping is better than perfect.”*  
 Let’s build something awesome!
