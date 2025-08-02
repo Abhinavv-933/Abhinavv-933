@@ -1,4 +1,4 @@
-![Coffee and Code](https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp)
+![SpongeBob](https://tenor.com/view/spongebob-work-computer-gif-27188768)
 # Hi, I’m Abhinav 👋
 
 **Full-stack dev who actually ships.**  
