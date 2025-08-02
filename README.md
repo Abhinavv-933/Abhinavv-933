@@ -24,8 +24,9 @@ Stay tuned for some of my favorite creations. I’m always building and will sha
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/abhinav-dwivedi-9m3/)
-- [Email](abhinavdwivedi933@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abhinav-dwivedi-9m3/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhinavdwivedi933@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Abhinavv-933)
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abhinavv-933)](https://github.com/ryo-ma/github-profile-trophy)
