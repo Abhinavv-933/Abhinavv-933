@@ -1,4 +1,4 @@
-![SpongeBob]([https://tenor.com/view/spongebob-work-computer-gif-27188768](https://media1.tenor.com/m/2yeCvRKKWL0AAAAC/spongebob-work.gif))
+![SpongeBob](https://media1.tenor.com/m/2yeCvRKKWL0AAAAC/spongebob-work.gif)
 # Hi, I’m Abhinav 👋
 
 **Full-stack dev who actually ships.**  
