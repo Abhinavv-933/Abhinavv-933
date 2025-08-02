@@ -33,6 +33,9 @@ Stay tuned for some of my favorite creations. I’m always building and will sha
 <a href="https://github.com/Abhinavv-933" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </a>
+<a href="https://x.com/your_twitter_handle" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40"/>
+</a>
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abhinavv-933)](https://github.com/ryo-ma/github-profile-trophy)
