@@ -1,3 +1,4 @@
+![Coffee and Code](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
 # Hi, I’m Abhinav 👋
 
 **Full-stack dev who actually ships.**  
