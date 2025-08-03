@@ -9,9 +9,10 @@ I build real projects, not just side ones — clean code, solid logic, and a das
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, JavaScript, HTML, TailwindCSS
-- **Backend:** Node.js, Express.js, MongoDB (MERN stack)
-- **Languages:** C, C++, Python
+- **Languages** : C, C++, Python, JavaScript
+- **Web** : HTML, CSS, React.js, Tailwind CSS, Bootstrap, Redux
+- **Database/APIs** : SQL, RESTful APIs
+- **Tools** : Git, GitHub, VSCode, MATLAB, Vite, Vercel
 
 ---
 
@@ -39,7 +40,7 @@ Stay tuned for some of my favorite creations. I’m always building and will sha
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abhinavv-933)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abhinavv-933&theme=onedark)](https://github.com/Abhinavv-933/github-profile-trophy)
+
 
 > *“Shipping is better than perfect.”*  
 Let’s build something awesome!
