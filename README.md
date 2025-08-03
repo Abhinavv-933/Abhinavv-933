@@ -16,11 +16,10 @@ I build real projects, not just side ones — clean code, solid logic, and a das
 
 ---
 
-## 🚀 Featured Projects
+## My Projects
 
-*Coming soon!*  
-Stay tuned for some of my favorite creations. I’m always building and will share my best here soon.
-
+- [Mega-Blog](https://github.com/Abhinavv-933/Mega-Blog-Project): it's a blogging website where users can write blog.
+- [Employee Management system](https://github.com/Abhinavv-933/Employee-Management-System): It is an employee management system made with react 
 ---
 
 ## 🌐 Connect with Me
