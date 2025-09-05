@@ -16,12 +16,6 @@ I build real projects, not just side ones — clean code, solid logic, and a das
 
 ---
 
-## My Projects
-
-- [Mega-Blog](https://github.com/Abhinavv-933/Mega-Blog-Project): it's a blogging website where users can write blog.
-- [Employee Management system](https://github.com/Abhinavv-933/Employee-Management-System): It is an employee management system made with react 
----
-
 ## 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/abhinav-dwivedi-9m3/" target="_blank">
